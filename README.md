@@ -1,7 +1,7 @@
 # Payments
 - Esse projeto foi criado em React Native, tendo como base um protótipo disponibilizado no figma para um teste prático da empresa UpBase.
 
-## Confira https://payments-upbase.netlify.app/
+## [Confira o resultado](https://payments-upbase.netlify.app/)
 
 ## 🎯 Iniciando o projeto
 
